@@ -1,1 +1,1 @@
-# O2IXLB_Szakmaigyakorlat
+# Chatbot megvalósítása
