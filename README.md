@@ -19,3 +19,5 @@
 > Legelőször magyar nyelven szeretném megvalósítani (mivel ez az anyanyelvem), de későbbiekben szeretnék egy angol nyelvű változatott is, hogy minél több ember tudja
 > majd igénybe venni (azért angol nyelven mert jelenleg ez a legtöbbet beszélt és tanult idegen nyelv). 
 
+#### Látványterv: 
+[
