@@ -20,4 +20,4 @@
 > majd igénybe venni (azért angol nyelven mert jelenleg ez a legtöbbet beszélt és tanult idegen nyelv). 
 
 #### Látványterv: 
-[
+![Chatbot](Messenger_layout_Chatbot.jpg)
