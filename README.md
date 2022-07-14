@@ -1,4 +1,4 @@
-### Czikó Tivadar Miskolci egyetem Programtervező Informatikus alapszakos hallgatójának Egyetemi Szakmai gyakorlata.
+### Czikó Tivadar Miskolci Egyetem Programtervező Informatikus alapszakos hallgatójának egyetemi szakmai gyakorlata.
 
 #### Chatbot feladata:
 > A chatbot célja az egyetemre frissen érkezett hallgatók és vendégek tájékozódásának elősegítése. Facebook messengeren keresztül
