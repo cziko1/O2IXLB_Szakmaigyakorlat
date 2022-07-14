@@ -14,7 +14,7 @@
 > A Facebook messenger felületét azért választottam mert jelenleg ez az egyik legfelkapottabb social media felület magyarországon (jelenleg 7.35 millió magyarországi 
 > felhasználó van. *Forrás:[ • Hungary: number of Facebook users 2022 | Statista](https://www.statista.com/statistics/1029770/facebook-users-hungary/#:~:text=The%20number%20of%20Facebook%20users,media%20platform%20in%20the%20country.)*). Mivel a Miskolci egyetem számos külföldi diák is tanúl és a 2024 Európai 
 > diákjátékokat a Miskolci és a Debreceni Egyetem közösen szervezi és Európán belül is nagyon sok felhasználóval rendelkezik. 
-> *(Jelenleg 307 millió. Forrás: [• Europe: number of Facebook users 2022 | Statista](https://www.statista.com/statistics/745383/facebook-europe-dau-by-quarter/)*). 
+> (Jelenleg 307 millió. *Forrás: [• Europe: number of Facebook users 2022 | Statista](https://www.statista.com/statistics/745383/facebook-europe-dau-by-quarter/)*). 
 
 > Legelőször magyar nyelven szeretném megvalósítani (mivel ez az anyanyelvem), de későbbiekben szeretnék egy angol nyelvű változatott is, hogy minél több ember tudja
 > majd igénybe venni (azért angol nyelven mert jelenleg ez a legtöbbet beszélt és tanult idegen nyelv). 
