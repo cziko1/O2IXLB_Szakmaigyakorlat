@@ -1,0 +1,57 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "introducing",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "My name is M.E mapper.",
+    "required_words": ["your", "name"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["where", "is", "the", "restaurant"],
+    "bot_response": "You can find on the middle of the university.",
+    "required_words": ["where", "restaurant"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["where", "is", "the", "sports", "hall"],
+    "bot_response": "It's a circle building. You can find in front of the E/7",
+    "required_words": ["where", "sports", "hall"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["where", "is", "the", "XXXVII", "auditorium"],
+    "bot_response": "You can find it between the E/3 and E/5 or You can go to the III. auditorium and You go out the rear exit",
+    "required_words": ["where", "XXXVII", "auditorium"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["where", "is", "the", "C", "/", "3"],
+    "bot_response": "Behind the C/2",
+    "required_words": ["where", "C", "3"]
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  }
+]
