@@ -53,5 +53,29 @@
     "user_input": ["see you", "goodbye", "bye"],
     "bot_response": "See you later!",
     "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["Where", "is", "the", "37", "auditorium"],
+    "bot_response": "You can find it between the E/5 and E/3 on the 1th floor. You can go in the auditorium from the balcony",
+    "required_words": ["where", "37", "auditorium"]
+  },
+  {
+    "response_type": "frequent sentence",
+    "user_input": ["thanks"],
+    "bot_response": "You're welcome",
+    "required_words": []
+  },
+  {
+    "response_type": "frequent sentence",
+    "user_input": ["thank","you","so","much"],
+    "bot_response": "You're welcome!",
+    "required_words": ["thank", "you"]
+  },
+  {
+    "response_type": "frequent sentence",
+    "user_input": ["Do", "you", "like", "pizza"],
+    "bot_response": "Yes I like pizza. One of my favourite",
+    "required_words": []
   }
 ]

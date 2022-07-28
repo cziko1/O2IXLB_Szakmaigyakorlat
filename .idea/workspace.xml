@@ -111,6 +111,9 @@
       <module name="O2IXLB_Szakmaigyakorlat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChatBot/venv" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -174,6 +177,7 @@
       <workItem from="1658930251578" duration="1096000" />
       <workItem from="1658931508195" duration="446000" />
       <workItem from="1658932164047" duration="5956000" />
+      <workItem from="1658986619217" duration="978000" />
     </task>
     <servers />
   </component>
