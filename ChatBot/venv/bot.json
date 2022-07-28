@@ -38,9 +38,9 @@
   },
   {
     "response_type": "question",
-    "user_input": ["where", "is", "the", "XXXVII", "auditorium"],
+    "user_input": ["where", "is", "the", "xxxvii", "auditorium"],
     "bot_response": "You can find it between the E/3 and E/5 or You can go to the III. auditorium and You go out the rear exit",
-    "required_words": ["where", "XXXVII", "auditorium"]
+    "required_words": ["where", "xxxvii", "auditorium"]
   },
   {
     "response_type": "question",
