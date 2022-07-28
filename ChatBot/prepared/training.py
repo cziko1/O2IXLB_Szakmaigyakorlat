@@ -10,6 +10,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
 
+#Dont work the tensorflow and the keras
+#have been downloaded 
 
 lemmatizer = WordNetLemmatizer()
 
