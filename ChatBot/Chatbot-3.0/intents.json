@@ -1,0 +1,70 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-) My name is M.E mapper",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "how can you help me",
+        "why can you help me",
+        "can you help me?"
+      ],
+      "responses": [
+        "Yes I can help. I know all rooms, auditorium, shops, restaurant and buildings in the University",
+        "Yea I can help. I can show you everything in the university! Just ask me something.",
+        "Yep I can tell you that Where you can find what you're searching because I'm a mapper chatbot."
+      ]
+    },
+    {
+      "tag": "auditorium",
+      "patterns": [
+        "where is the iii. auditorium?",
+        "iii. auditorium?",
+        "where can i find the iii auditorium?"
+      ],
+      "responses": [
+        "you can find it between the E/3 and E/5 and In front of the gift shop",
+        "you can find it between the E/3 and E/5 and It's under the xxxvii. auditorium."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Q: What did 2 say to 4 after 2 beat him in a race?\n A: 2 Fast 4 U!",
+        "Q: What did Al Gore play on his guitar?\n A: An algorithm"
+      ]
+    }
+  ]
+}

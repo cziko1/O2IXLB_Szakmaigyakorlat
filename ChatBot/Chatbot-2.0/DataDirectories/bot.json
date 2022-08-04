@@ -76,6 +76,6 @@
     "response_type": "frequent sentence",
     "user_input": ["Do", "you", "like", "pizza"],
     "bot_response": "Yes I like pizza. One of my favourite",
-    "required_words": []
+    "required_words": ["you", "like", "pizza"]
   }
 ]
