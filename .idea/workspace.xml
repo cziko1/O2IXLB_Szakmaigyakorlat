@@ -24,27 +24,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Development/PillerImreGrafika/O2IXLB_Szakmaigyakorlat/ChatBot/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\PillerImreGrafika\O2IXLB_Szakmaigyakorlat\ChatBot\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\PillerImreGrafika\O2IXLB_Szakmaigyakorlat\ChatBot\imgages" />
       <recent name="D:\Development\PillerImreGrafika\O2IXLB_Szakmaigyakorlat\ChatBot\Chatbot-2.0\PythonFiles" />
       <recent name="D:\Development\PillerImreGrafika\O2IXLB_Szakmaigyakorlat\ChatBot\Chatbot-2.0\JsonFiles" />
     </key>
@@ -187,7 +192,7 @@
       <workItem from="1659599604632" duration="1047000" />
       <workItem from="1659602276503" duration="1083000" />
       <workItem from="1659603466229" duration="37000" />
-      <workItem from="1659603517031" duration="1361000" />
+      <workItem from="1659603517031" duration="4518000" />
     </task>
     <servers />
   </component>

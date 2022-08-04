@@ -14,4 +14,8 @@
 > Legelőször angol nyelven szeretném megvalósítani (mivel ez egy világnyelv), de későbbiekben szeretnék egy magyar nyelvű változatot is.
 > 
 #### Látványterv: 
-![Chatbot](Messenger_layout_Chatbot.jpg)
+
+<p align="center">
+    <img src="./ChatBot/images/phone-layout-2-0.png" width="176">
+    <img src="./ChatBot/images/logo_PNG.png" width="390">
+</p>
